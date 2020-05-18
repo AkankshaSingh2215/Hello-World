@@ -1,4 +1,4 @@
-#email slicer
+#email slicer using python
 
 email = input("what is your email address?").strip() #strip()method removes any leading and trailing characters
 
